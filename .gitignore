@@ -2,3 +2,4 @@ obj/
 *.obj
 *.exp
 *.lib
+actions-runner
